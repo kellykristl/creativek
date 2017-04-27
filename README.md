@@ -16,4 +16,4 @@ You've done a nice job outlining the points above in regards to your direction h
 
 You are clear to begin on [Milestone 2&alpha;](https://bootcamp-coders.cnm.edu/projects/personal/milestone-two/). Go ahead and read the documentation on bootcamp-coders.cnm.edu if you like. I will be going over [Milestone 2&alpha;](https://bootcamp-coders.cnm.edu/projects/personal/milestone-two/) in class on Monday 5/1 as well.
 
-Your Milestone 1 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/capstone/rubric/).
+Your Milestone 1 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).

@@ -13,7 +13,7 @@
 		<p>My audience will be potential employers.</p>
 
 		<h1 class="header">Goal</h1>
-		<p>To obtain part-time to full-time employment.</p>
+		<p>To obtain part-time to full-time employment with a company, ideally working remotely, doing front end work primarily with WordPress and customizing themes in PHP.</p>
 
 		<h1 class="header">Persona</h1>
 		<p><strong>John Smith - developer and potential employer</strong></p>

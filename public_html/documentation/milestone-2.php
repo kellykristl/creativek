@@ -19,7 +19,7 @@
 
 		<h2 class="header">Contact Me</h2>
 		<p>This section will contain a contact me email form.</p>
-		<p><img src="images/PWPdesktopwireframe.png"></p>
+		<p><img src="/images/PWPdesktopwireframe.png"></p>
 		<p><img src="images/PWPmobilewireframe1.png">
 			<img src="images/PWPmobilewireframe2.png"></p>
 	</body>

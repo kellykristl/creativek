@@ -40,14 +40,13 @@
 		=============================================== -->
 		<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,200,500,600,700' rel='stylesheet'
 				type='text/css'>
+
 		<!-- ==============================================
 		JS
 		=============================================== -->
 
 
 		<script src="assets/js/libs/respond.min.js"></script>
-
-
 		<script type="text/javascript" src="assets/js/libs/modernizr.min.js"></script>
 
 	</head>
@@ -71,7 +70,7 @@
 					</button>
 
 					<!-- ======= LOGO ========-->
-					Creative<a class="navbar-brand scrollto" href="#home"><img src="assets/images/mylogo2.png" alt="logo">Design</a>
+					<a class="navbar-brand scrollto" href="#home">Creative &nbsp <img src="assets/images/mylogo2.png" alt="logo">Design</a>
 
 				</div>
 
@@ -342,15 +341,22 @@
 							</div>
 						</div><!-- End textarea -->
 
-						<p>
-							<button name="submit" type="submit" class="btn btn-color2 btn-block" data-error-message="Error!"
-									  data-sending-message="Sending..." data-ok-message="Message Sent"><i
-								class="fa fa-paper-plane"></i>Send Message
-							</button>
-						</p>
 						<input type="hidden" name="submitted" id="submitted" value="true"/>
 
+						<!-- reCAPTCHA -->
+						<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+
+						<button class="btn btn-color2" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+						<button class="btn btn-color2" type="reset"><i class="fa fa-ban"></i> Reset</button>
+
 					</form><!-- End contact-form -->
+
+					<!--empty area for form error/success output-->
+					<div class="row">
+						<div class="col-xs-12">
+							<div id="output-area"></div>
+						</div>
+					</div>
 
 				</div>
 

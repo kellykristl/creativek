@@ -31,3 +31,16 @@ Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/proj
 
 ## Edits &amp; Suggestions
 - Don't forget the `alt` attribute on your `<img>` tags.
+
+
+Kelly feedback: You’ve done a great job making your site look great! The content is well broken up between nice parallax images and solid color sections. It flows well, and all of your links transition nicely to the proper sections. It seems like you had a clear goal in mind as far as target audience goes, and it shows. I’d hire you to create my small business website. :smiley:
+
+Here are some minor HTML changes you could make in order to pass the W3 validator automated test: https://validator.w3.org/nu/?doc=http%3A%2F%2Fcreativekdesign.com%2F
+Your comments and use of white space makes your HTML extremely readable, which will help you and others down the road if you ever have to come back to a project and update or edit it. If you keep up the clear coding with comments other developers will love you!
+
+Unfortunately, your contact form is not working properly, and is giving me a 500 server error when I try to submit an message. I'm thinking this is an easy fix, but if you're having issues fixing it you can always ask any of us on the bridge and we'd be glad to help you debug. With that being said I'm only able to give you a Tier II, but if your contact form was working you'd be in Tier IV. Overall you've done a great job, and your site looks excellent.
+Your overall passing grade across all of your PWP Milestones is 30/40 points (75%).
+Milestone 1 - 20%: Tier IV 40(0.2) = 8
+Milestone 2a - 20%: Tier IV 30(0.2) = 8
+Milestone 2b - 10%: Tier IV 40(0.1) = 4
+Milestone 3 - 50%: Tier II 20(0.5) = 10

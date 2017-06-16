@@ -33,6 +33,8 @@ Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/proj
 - Don't forget the `alt` attribute on your `<img>` tags.
 
 
+## Final Feedback
+
 Kelly feedback: You’ve done a great job making your site look great! The content is well broken up between nice parallax images and solid color sections. It flows well, and all of your links transition nicely to the proper sections. It seems like you had a clear goal in mind as far as target audience goes, and it shows. I’d hire you to create my small business website. :smiley:
 
 Here are some minor HTML changes you could make in order to pass the W3 validator automated test: https://validator.w3.org/nu/?doc=http%3A%2F%2Fcreativekdesign.com%2F
